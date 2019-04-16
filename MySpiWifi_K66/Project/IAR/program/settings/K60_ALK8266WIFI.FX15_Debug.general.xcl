@@ -1,0 +1,15 @@
+"D:\IAR Systems\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\arm\bin\armjlink2.dll" 
+
+"C:\Users\fmk12\Desktop\MK60-M8266WIFI\Prj\IAR\FX15_Debug\Exe\MK60_M8266WIFI.out" 
+
+--plugin "D:\IAR Systems\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\arm\config\debugger\NXP\K6x.dmac" 
+
+--flash_loader "D:\IAR Systems\arm\config\flashloader\NXP\FlashK65Fxxx256K.board" 
+
+
+
+
